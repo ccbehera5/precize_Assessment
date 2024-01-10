@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Chandan",
+    "SAT Score": 90.0,
+    "Passed": "Pass"
+  },
+  {
+    "Name": "Behera",
+    "SAT Score": 25.0,
+    "Passed": "Fail"
+  },
+  {
+    "Name": "XYZ",
+    "SAT Score": 60.0,
+    "Passed": "Pass"
+  }
+]
